@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SunnyChoudhary850/Question_Solving/tree/master/0005-longest-palindromic-substring) |
 | [0455-assign-cookies](https://github.com/SunnyChoudhary850/Question_Solving/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SunnyChoudhary850/Question_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/SunnyChoudhary850/Question_Solving/tree/master/0005-longest-palindromic-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/SunnyChoudhary850/Question_Solving/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SunnyChoudhary850/Question_Solving/tree/master/0009-palindrome-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/SunnyChoudhary850/Question_Solving/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
