@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SunnyChoudhary850/Question_Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SunnyChoudhary850/Question_Solving/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/SunnyChoudhary850/Question_Solving/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/SunnyChoudhary850/Question_Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0455-assign-cookies](https://github.com/SunnyChoudhary850/Question_Solving/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/SunnyChoudhary850/Question_Solving/tree/master/0029-divide-two-integers) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/SunnyChoudhary850/Question_Solving/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
